@@ -1,6 +1,6 @@
 <template>
   <div class="ConstructionNotice">
-    Please bee patient. The hive is still under construction.
+    Please be(e) patient. The hive is still under construction.
   </div>
 </template>
 
