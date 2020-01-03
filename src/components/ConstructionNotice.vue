@@ -1,7 +1,7 @@
 <template>
   <div class="ConstructionNotice">
     Please bee patient. The hive is still under construction.
-    Deploy Test
+    Deploy Testasf
     <a href="/#/vue_dev_links" target="_self" rel="noopener">.</a>
   </div>
 </template>
