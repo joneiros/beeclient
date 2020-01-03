@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 //import Home from '../views/Home.vue'
-import Hello from '@/components/HelloWorld'
+import HelloWorld from '@/components/HelloWorld'
 import ConstructionNotice from '@/components/ConstructionNotice'
 
 Vue.use(VueRouter)
@@ -15,7 +15,7 @@ const routes = [
   {
     path: '/vue_dev_links',
     name: 'hello',
-    component: Hello
+    component: HelloWorld
   }
 ]
 
