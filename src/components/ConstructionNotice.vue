@@ -1,7 +1,7 @@
 <template>
   <div class="ConstructionNotice">
     Please bee patient. The hive is still under construction.
-    <a href="/vue_dev_links" target="_blank" rel="noopener">.</a>
+    <a href="/#/vue_dev_links" target="_self" rel="noopener">.</a>
   </div>
 </template>
 

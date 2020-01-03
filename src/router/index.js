@@ -13,7 +13,7 @@ const routes = [
     component: ConstructionNotice
   },
   {
-    path: '/vuelinks',
+    path: '/vue_dev_links',
     name: 'hello',
     component: HelloWorld
   }
@@ -31,7 +31,7 @@ const routes = [
 */
 
 const router = new VueRouter({
-  base: process.env.BASE_URL,
+  //base: process.env.BASE_URL,
   routes
 })
 
