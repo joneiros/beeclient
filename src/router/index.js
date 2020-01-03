@@ -13,7 +13,7 @@ const routes = [
     component: ConstructionNotice
   },
   {
-    path: '/vue_dev_links',
+    path: '/vuelinks',
     name: 'hello',
     component: HelloWorld
   }
